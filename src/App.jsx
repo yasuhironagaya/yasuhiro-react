@@ -27,7 +27,7 @@ function App() {
           <button className="bg-green-500 text-white py-2 px-6 border-0 rounded text-lg hover:bg-green-600 duration-300">詳細</button>
         </div>
         <div className="md:w-1/2 lg:max-w-lg w-5/6">
-          <img src="./public/img/hikoneCastle.jpg" alt="彦根城の紅葉" />
+          <img src="../public/img/hikoneCastle.jpg" alt="彦根城の紅葉" />
         </div>
       </div>
     </section>
